@@ -4,7 +4,7 @@ Hi 👋 My name is Arthur Zorzo
 Back-End Developer
 ------------------
 
-I'm a 17 years old BackEnd Developer who loves Java and MySql
+I'm a 1 years old BackEnd Developer who loves Java and MySql
 
 * 🌍  I'm based in Caçador, Sc, Brazil
 * ✉️  You can contact me at [arthurcorteszorzo@gmail.com](mailto:arthurcorteszorzo@gmail.com)
